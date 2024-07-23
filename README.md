@@ -1,9 +1,11 @@
-## GestaltGAN
+# GestaltGAN
 
 We modified the Stylegan3 architecture and trained it on dysmorphic faces for several disorders. Main additions are oversampling that balances the amount of training images per class and a custom loss function that provides feedback specific to the disorders to the generator.
 
-@todo paper link
+In addition several misc functions have been added for performing ganinversion and generating latent averages.
 
+Paper preprint: https://doi.org/10.1101/2024.07.18.24308205
+#
 
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
 
