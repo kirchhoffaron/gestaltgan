@@ -4,7 +4,7 @@ We modified the Stylegan3 architecture and trained it on dysmorphic faces for se
 
 In addition several misc functions have been added for performing ganinversion and generating latent averages.
 
-Paper preprint: https://doi.org/10.1101/2024.07.18.24308205
+Paper preprint: [https://doi.org/10.1038/s41431-025-01787-z](https://doi.org/10.1038/s41431-025-01787-z)
 #
 
 ## Alias-Free Generative Adversarial Networks (StyleGAN3)<br><sub>Official PyTorch implementation of the NeurIPS 2021 paper</sub>
